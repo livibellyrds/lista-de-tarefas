@@ -1,0 +1,15 @@
+#Lista de tarefas
+objetivo é criar uma lista de tarefas:
+*fazer um crud de tarefas com os campos descrição,data e feito.
+*descrição = texto livre. 
+*data = data.
+*feito = boolean.
+*salvar num banco de dados, usaremos o sqlite.
+*criar API para cada operação do crud
+*C create
+*R read
+*U update
+*D delete
+API para listar as tarefas feitas
+API para listar as tarefas a fazer
+
